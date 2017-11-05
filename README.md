@@ -1,6 +1,3 @@
-# nabito-arduino-nano
-
-
 # Nabito Arduino module sketch
 
 This sketch runs on Arduino Nano in the Nabito control box, but you can run it on Arduino Uno or any other Arduino Uno/Nano compatible board.
